@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAhkam](https://github.com/SyedAhkam)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python, Discord Bots**
 
 - 📫 How to reach me **smahkam57@gmail.com**
 
