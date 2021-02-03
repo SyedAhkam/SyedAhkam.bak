@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedahkam" alt="syedahkam" /> </p>
 
-- 🌱 I’m currently learning **Java, Ruby and React**
+- 🌱 I’m currently learning **Java, Ruby and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAhkam](https://github.com/SyedAhkam)
 
