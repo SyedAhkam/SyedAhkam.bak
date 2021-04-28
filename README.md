@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SyedAhkam</h1>
 <h3 align="center">A passionate software and web developer who loves learning new things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedahkam" alt="syedahkam" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=syedahkam" alt="syedahkam" /> </p>
 
 - 🌱 I’m currently learning **Java, Ruby and Rust**
 
