@@ -8,4 +8,4 @@
 
 - 💬 Ask me about **Python, Discord Bots, GNU/Linux**
 
-- 📫 How to reach me **smahkam57@gmail.com**
+- 📫 How to reach me **smahkam57@gmail.com** or **Syed#5085** at discord
