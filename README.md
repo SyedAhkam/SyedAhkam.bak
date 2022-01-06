@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syedahkam" alt="syedahkam" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Low level software concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SyedAhkam](https://github.com/SyedAhkam)
 
