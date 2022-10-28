@@ -8,4 +8,4 @@
 
 - 💬 Ask me about **Python, Rust, Discord Bots, GNU/Linux, Vim/Emacs**
 
-- 📫 How to reach me **smahkam57@gmail.com** or **Syed#5085** at discord
+- 📫 How to reach me **smahkam57@gmail.com**, **Syed#5085** at discord and **@SyedAhkam1** on twitter
